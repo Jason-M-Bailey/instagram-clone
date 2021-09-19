@@ -28,8 +28,6 @@ function App() {
         />
       </div>
 
-      <h1>insta clone</h1>
-
       {
       posts.map(post => (
         <Post
